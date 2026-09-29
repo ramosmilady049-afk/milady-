@@ -1,21 +1,3 @@
-# Pet Shop - Sistema de Gestión Integral
-
-Proyecto organizado para GitHub y GitDiagram a partir del trabajo académico de Pet Shop.
-
-## 11 clases del dominio
-
-- Cliente
-- Mascota
-- Empleado
-- Servicio
-- Cita
-- Producto
-- Proveedor
-- Venta
-- DetalleVenta
-- Pago
-- Inventario
-
 ## Diagrama de clases UML completo
 
 ```mermaid
